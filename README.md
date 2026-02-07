@@ -1,3 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=240&section=header&text=Prince%20Sukry&fontSize=44&fontColor=22d3ee&animation=fadeIn&fontAlignY=38&desc=Final-Year%20IT%20Undergraduate%20%7C%20Futuristic%20Developer&descAlignY=56)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Final-Year+IT+Undergraduate;Frontend+Developer+%7C+WordPress+Developer;Mobile+Application+Developer;Web+Developer;Cloud+Computing+%7C+AWS+%26+Microsoft+Azure;Building+Next-Gen+Digital+Experiences" />
+</p>
+
 # 💫 About Me:
 🔭 I'm currently working on IT projects and improving my coding skills  <br>✨️ I'm looking to collaborate with companies to showcase my knowledge  <br>🤝🏻 I'm looking for help on DevOps & Cloud Computing learning journey  <br>☘️ I'm currently learning DevOps and Cloud Computing to level up my skills  <br>💬 Ask me about coding, projects, or tech challenges  <br>⚡️ Fun Fact: I'm not a beginner when it comes to fixing code errors and bugs
 
@@ -19,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=Matrixtrader23 &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=120&section=footer)
