@@ -77,15 +77,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matrixtrader23&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matrixtrader23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Matrixtrader23&theme=neon-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matrixtrader23&theme=dark&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrixtrader23&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrixtrader23&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -93,13 +93,13 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matrixtrader23&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matrixtrader23&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Matrixtrader23&color=ff00ff" />
+  <img src="https://komarev.com/ghpvc/?username=Matrixtrader23&style=flat-square&color=ff00ff" alt="Visitor Count"/>
 </p>
 
 <!-- ================== NEON FOOTER ================== -->
